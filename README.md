@@ -66,4 +66,11 @@ I care about code quality, DX, and things that just work.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sanzouh/sanzouh/main/contact.svg" alt="Contact" width="820"/>
+  
+  <br/>
+
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santa-herizo-razafindrakoto-08363b23b/)
+  [![GitHub](https://img.shields.io/badge/-GitHub-6e40c9?style=flat-square&logo=github&logoColor=white)](https://github.com/sanzouh)
+  [![Email](https://img.shields.io/badge/-Email-ff7b72?style=flat-square&logo=gmail&logoColor=white)](mailto:santaherizo2.0@gmail.com)
+  [![CV](https://img.shields.io/badge/-Télécharger%20CV-2563eb?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/sanzouh/sanzouh/raw/main/CV-RAZAFINDRAKOTO-Santa-Herizo.pdf)
 </div>
