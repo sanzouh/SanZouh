@@ -64,7 +64,6 @@ I care about code quality, DX, and things that just work.
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-santa--herizo--razafindrakoto-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/santa-herizo-razafindrakoto-08363b23b/)
-[![GitHub](https://img.shields.io/badge/GitHub-sanzouh-181717?style=flat-square&logo=github)](https://github.com/sanzouh)
-[![Email](https://img.shields.io/badge/Email-santaherizo2.0%40gmail.com-0078D4?style=flat-square&logo=gmail)](mailto:santaherizo2.0@gmail.com)
-[![CV](https://img.shields.io/badge/CV-Télécharger-2563eb?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/sanzouh/sanzouh/raw/main/CV-RAZAFINDRAKOTO-Santa-Herizo.pdf)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sanzouh/sanzouh/main/contact.svg" alt="Contact" width="820"/>
+</div>
