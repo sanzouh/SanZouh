@@ -1,0 +1,72 @@
+<svg width="100%" viewBox="0 0 820 110" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .card { fill: #161b22; }
+      .border { fill: none; stroke: #21262d; stroke-width: 1; }
+      .label { fill: #8b949e; font-family: 'Courier New', monospace; font-size: 11px; }
+      .value { fill: #e6edf3; font-family: 'Courier New', monospace; font-size: 12px; font-weight: bold; }
+      .icon-bg-blue   { fill: #0c2d6b; }
+      .icon-bg-gray   { fill: #21262d; }
+      .icon-bg-red    { fill: #3d1212; }
+      .icon-bg-indigo { fill: #1e1b4b; }
+      .icon-c-blue    { fill: #58a6ff; }
+      .icon-c-gray    { fill: #c9d1d9; }
+      .icon-c-red     { fill: #ff7b72; }
+      .icon-c-indigo  { fill: #a5b4fc; }
+      .prompt { fill: #3fb950; font-family: 'Courier New', monospace; font-size: 10px; }
+    </style>
+  </defs>
+
+  <rect width="820" height="110" rx="10" class="bg"/>
+
+  <text x="20" y="22" class="prompt">// contact</text>
+
+  <!-- LinkedIn -->
+  <rect x="20" y="32" width="184" height="66" rx="6" class="card"/>
+  <rect x="20" y="32" width="184" height="66" rx="6" class="border"/>
+  <rect x="20" y="32" width="184" height="3" rx="2" fill="#0A66C2"/>
+  <circle cx="46" cy="58" r="12" class="icon-bg-blue"/>
+  <text x="46" y="62" text-anchor="middle" font-size="13" class="icon-c-blue">in</text>
+  <text x="64" y="54" class="label">LinkedIn</text>
+  <text x="64" y="68" class="value">santa-herizo</text>
+  <a href="https://www.linkedin.com/in/santa-herizo-razafindrakoto-08363b23b/">
+    <rect x="20" y="32" width="184" height="66" rx="6" fill="transparent"/>
+  </a>
+
+  <!-- GitHub -->
+  <rect x="216" y="32" width="184" height="66" rx="6" class="card"/>
+  <rect x="216" y="32" width="184" height="66" rx="6" class="border"/>
+  <rect x="216" y="32" width="184" height="3" rx="2" fill="#6e40c9"/>
+  <circle cx="242" cy="58" r="12" class="icon-bg-gray"/>
+  <text x="242" y="62" text-anchor="middle" font-size="13" class="icon-c-gray">⌥</text>
+  <text x="260" y="54" class="label">GitHub</text>
+  <text x="260" y="68" class="value">@sanzouh</text>
+  <a href="https://github.com/sanzouh">
+    <rect x="216" y="32" width="184" height="66" rx="6" fill="transparent"/>
+  </a>
+
+  <!-- Email -->
+  <rect x="412" y="32" width="184" height="66" rx="6" class="card"/>
+  <rect x="412" y="32" width="184" height="66" rx="6" class="border"/>
+  <rect x="412" y="32" width="184" height="3" rx="2" fill="#ff7b72"/>
+  <circle cx="438" cy="58" r="12" class="icon-bg-red"/>
+  <text x="438" y="62" text-anchor="middle" font-size="13" class="icon-c-red">✉</text>
+  <text x="456" y="54" class="label">Email</text>
+  <text x="456" y="68" class="value">santaherizo2.0</text>
+  <a href="mailto:santaherizo2.0@gmail.com">
+    <rect x="412" y="32" width="184" height="66" rx="6" fill="transparent"/>
+  </a>
+
+  <!-- CV -->
+  <rect x="608" y="32" width="192" height="66" rx="6" class="card"/>
+  <rect x="608" y="32" width="192" height="66" rx="6" class="border"/>
+  <rect x="608" y="32" width="192" height="3" rx="2" fill="#2563eb"/>
+  <circle cx="634" cy="58" r="12" class="icon-bg-indigo"/>
+  <text x="634" y="62" text-anchor="middle" font-size="13" class="icon-c-indigo">↓</text>
+  <text x="652" y="54" class="label">Curriculum Vitae</text>
+  <text x="652" y="68" class="value">Télécharger PDF</text>
+  <a href="https://github.com/sanzouh/sanzouh/raw/main/CV-RAZAFINDRAKOTO-Santa-Herizo.pdf">
+    <rect x="608" y="32" width="192" height="66" rx="6" fill="transparent"/>
+  </a>
+</svg>
